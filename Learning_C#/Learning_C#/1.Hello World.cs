@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace Learning_C_
 {
-    internal class Program
+    internal class HellWorld
     {
-        static void Main(string[] args)
+        static void HelloWorld(string[] args)
         {
+            Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
     }
 }

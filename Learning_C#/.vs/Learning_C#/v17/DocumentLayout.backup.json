@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Git\\Learning_C-\\Learning_C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11EA3850-342A-4D72-B8B7-3227BA75EB93}|Learning_C#\\Learning_C#.csproj|c:\\git\\learning_c-\\learning_c#\\learning_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11EA3850-342A-4D72-B8B7-3227BA75EB93}|Learning_C#\\Learning_C#.csproj|solutionrelative:learning_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11EA3850-342A-4D72-B8B7-3227BA75EB93}|Learning_C#\\Learning_C#.csproj|c:\\git\\learning_c-\\learning_c#\\learning_c#\\3.operatoren.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EA3850-342A-4D72-B8B7-3227BA75EB93}|Learning_C#\\Learning_C#.csproj|solutionrelative:learning_c#\\3.operatoren.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EA3850-342A-4D72-B8B7-3227BA75EB93}|Learning_C#\\Learning_C#.csproj|c:\\git\\learning_c-\\learning_c#\\learning_c#\\2.variablenundoperatoren.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EA3850-342A-4D72-B8B7-3227BA75EB93}|Learning_C#\\Learning_C#.csproj|solutionrelative:learning_c#\\2.variablenundoperatoren.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EA3850-342A-4D72-B8B7-3227BA75EB93}|Learning_C#\\Learning_C#.csproj|c:\\git\\learning_c-\\learning_c#\\learning_c#\\1.hello world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EA3850-342A-4D72-B8B7-3227BA75EB93}|Learning_C#\\Learning_C#.csproj|solutionrelative:learning_c#\\1.hello world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Git\\Learning_C-\\Learning_C#\\Learning_C#\\Program.cs",
-              "RelativeDocumentMoniker": "Learning_C#\\Program.cs",
-              "ToolTip": "C:\\Git\\Learning_C-\\Learning_C#\\Learning_C#\\Program.cs",
-              "RelativeToolTip": "Learning_C#\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "3.Operatoren.cs",
+              "DocumentMoniker": "C:\\Git\\Learning_C-\\Learning_C#\\Learning_C#\\3.Operatoren.cs",
+              "RelativeDocumentMoniker": "Learning_C#\\3.Operatoren.cs",
+              "ToolTip": "C:\\Git\\Learning_C-\\Learning_C#\\Learning_C#\\3.Operatoren.cs",
+              "RelativeToolTip": "Learning_C#\\3.Operatoren.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T18:14:49.465Z",
+              "WhenOpened": "2024-09-06T18:33:43.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1.Hello World.cs",
+              "DocumentMoniker": "C:\\Git\\Learning_C-\\Learning_C#\\Learning_C#\\1.Hello World.cs",
+              "RelativeDocumentMoniker": "Learning_C#\\1.Hello World.cs",
+              "ToolTip": "C:\\Git\\Learning_C-\\Learning_C#\\Learning_C#\\1.Hello World.cs",
+              "RelativeToolTip": "Learning_C#\\1.Hello World.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:29:13.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2.VariablenUndOperatoren.cs",
+              "DocumentMoniker": "C:\\Git\\Learning_C-\\Learning_C#\\Learning_C#\\2.VariablenUndOperatoren.cs",
+              "RelativeDocumentMoniker": "Learning_C#\\2.VariablenUndOperatoren.cs",
+              "ToolTip": "C:\\Git\\Learning_C-\\Learning_C#\\Learning_C#\\2.VariablenUndOperatoren.cs",
+              "RelativeToolTip": "Learning_C#\\2.VariablenUndOperatoren.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:24:56.095Z",
               "EditorCaption": ""
             }
           ]

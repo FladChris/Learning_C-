@@ -1,0 +1,7 @@
+C:\Git\Learning_C-\Learning_C#\Learning_C#\bin\Debug\Learning_C#.exe.config
+C:\Git\Learning_C-\Learning_C#\Learning_C#\bin\Debug\Learning_C#.exe
+C:\Git\Learning_C-\Learning_C#\Learning_C#\bin\Debug\Learning_C#.pdb
+C:\Git\Learning_C-\Learning_C#\Learning_C#\obj\Debug\Learning_C#.csproj.AssemblyReference.cache
+C:\Git\Learning_C-\Learning_C#\Learning_C#\obj\Debug\Learning_C#.csproj.CoreCompileInputs.cache
+C:\Git\Learning_C-\Learning_C#\Learning_C#\obj\Debug\Learning_C#.exe
+C:\Git\Learning_C-\Learning_C#\Learning_C#\obj\Debug\Learning_C#.pdb
